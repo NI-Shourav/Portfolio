@@ -1,0 +1,29 @@
+{
+  "name": "nur-islam-portfolio",
+  "version": "2.0.0",
+  "description": "Personal portfolio website showcasing data analysis projects, research publications, and web development work",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "python -m http.server 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NI-Shourav/Portfolio"
+  },
+  "keywords": [
+    "portfolio",
+    "data-analyst",
+    "researcher",
+    "web-development",
+    "personal-website"
+  ],
+  "author": "Nur Islam <nurislamshourav6@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {}
+}
